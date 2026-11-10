@@ -9,6 +9,7 @@ I used NCARS' Derecho Supercomputing system to code all of my findings for my re
 
 ## [POSTER LINK](https://ceee.colorado.edu/sites/default/files/2025-08/Cece%20Weaver%20-%20Poster%20Final.pdf)
 
+BG bounding box was a test run for my personal environment; original code is based on M.L. Timmermans who sent me over the script analysis
 ---
 
 ## Features
