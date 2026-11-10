@@ -5,7 +5,7 @@ Python data processing and spatial visualization scripts developed to analyze mi
 ## **ALSO WANT TO NOTE:**
 These are Python scripts that helped me in my research; they are not finalized figures, and I only tested them in a small environment compiler to familiarize myself with the Ocean Modeling process. 
 
-I used NCARS' Derecho Supercomputing system to code all of my findings for my research experience; these Notebooks, which are not public, are pending submission as papers with my co-authors. See the [Abstract](https://studio.m-anage.com/agu/agu25/meetingapp.cgi/Paper/1921907) of my findings from the AGU. 
+I used NCARS' Derecho Supercomputing system to code all of my findings for my research experience; those Notebooks, which are not public, are pending submission as papers with my co-authors. See the [Abstract](https://studio.m-anage.com/agu/agu25/meetingapp.cgi/Paper/1921907) of my findings from the AGU. 
 
 ## [POSTER LINK](https://ceee.colorado.edu/sites/default/files/2025-08/Cece%20Weaver%20-%20Poster%20Final.pdf)
 
