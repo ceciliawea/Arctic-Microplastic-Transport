@@ -3,7 +3,7 @@
 Python data processing and spatial visualization scripts developed to analyze microplastic concentrations, sea ice dynamics, ocean salinity, and circulation fields across the Beaufort Gyre and Arctic Ocean[cite: 4, 5, 7, 8, 10, 12].
 
 ## **ALSO WANT TO NOTE:**
-These are Python scripts that helped me in my research; they are not finalized figures, and I only tested them in a small environment compiler to familiarize myself with the Ocean Modeling process. 
+These are Python scripts that helped me in my research; they are not finalized figures, and I only tested some coding in a small environment compiler to familiarize myself with the Ocean Modeling process. 
 
 I used NCARS' Derecho Supercomputing system to code all of my findings for my research experience; those Notebooks, which are not public, are pending submission as papers with my co-authors. See the [Abstract](https://studio.m-anage.com/agu/agu25/meetingapp.cgi/Paper/1921907) of my findings from the AGU. 
 
